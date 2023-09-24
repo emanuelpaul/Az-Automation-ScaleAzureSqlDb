@@ -1,5 +1,5 @@
 # About
-Azure automation runbook that can be used to scale Azure Sql Database. 
+Azure automation runbook that can be used to scale Azure Sql Database based on a schedule. 
 This is an up date date version that uses **managed identity** instead of RunAs connection. 
 
 # Prerequisites
